@@ -1,2 +1,2 @@
-# SpaceX-API
+# SpaceX API
 Made using Flask
